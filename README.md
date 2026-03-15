@@ -46,4 +46,4 @@ This project uses **Riverpod** (`flutter_riverpod`) for state management.
    flutter run
    ```
 
-*(Tested on Android, iOS, and Web)*
+*(Tested on Android and web)*
